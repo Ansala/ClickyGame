@@ -10,3 +10,5 @@ const Card = props => (
 );
 
 export default Card;
+
+/*Heroku : https://anna-clicky-gameot.herokuapp.com/*/
